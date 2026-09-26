@@ -13,7 +13,7 @@ public class App {
     }
 
     public static boolean isPass(double average) {
-        return average >= 32.0;
+        return average >= 40.0;
     }
 
     public static void main(String[] args) {
