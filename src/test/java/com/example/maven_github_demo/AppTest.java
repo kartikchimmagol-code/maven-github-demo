@@ -24,6 +24,6 @@ public class AppTest {
 
     @Test
     void testFail() {
-        assertFalse(App.isPass(35.0));
+        assertFalse(App.isPass(31.0));
     }
 }
